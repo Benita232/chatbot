@@ -14,6 +14,53 @@
       "tag": "thanks",
       "patterns": ["Thanks", "Thank you", "That helps", "Awesome, thanks"],
       "responses": ["You're welcome!", "Glad I could help."]
+    },
+    {
+      "tag": "help",
+      "patterns": ["Can you help me?", "I need assistance", "Help me", "What can you do?"],
+      "responses": ["Sure! How can I assist you today?", "I'm here to help! What do you need?"]
+    },
+    {
+      "tag": "hours",
+      "patterns": ["What are your hours?", "When are you open?", "Operating hours", "Business hours"],
+      "responses": ["We are open from 9 AM to 5 PM, Monday to Friday.", "Our business hours are 9 AM - 5 PM on weekdays."]
+    },
+    {
+      "tag": "location",
+      "patterns": ["Where are you located?", "What is your address?", "Location", "Find you"],
+      "responses": ["We are located at 123 Main St, Anytown, USA.", "You can find us at 123 Main St, Anytown."]
+    },
+    {
+      "tag": "jokes",
+      "patterns": ["Tell me a joke", "Make me laugh", "I want to hear a joke", "Do you know any jokes?"],
+      "responses": ["Why did the scarecrow win an award? Because he was outstanding in his field!", "I would tell you a construction joke, but I'm still working on it."]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["What's the weather like?", "Tell me the weather", "Weather forecast", "Is it going to rain?"],
+      "responses": ["I don't have real-time weather data, but you can check a weather website or app for the latest updates!", "Sorry, I can't provide current weather information."]
+    },
+    {
+      "tag": "name",
+      "patterns": ["What is your name?", "Who are you?", "Tell me your name", "Your name?"],
+      "responses": ["I am ChatBot, your virtual assistant.", "You can call me ChatBot."]
+    },
+    {
+      "tag": "emotional_support",
+      "patterns": ["I'm feeling sad", "I need someone to talk to", "Can you listen?", "I'm upset"],
+      "responses": ["I'm here for you. It's okay to feel this way.", "I'm listening. You can share whatever is on your mind."]
+    },
+    {
+      "tag": "food_recommendation",
+      "patterns": ["Can you recommend a restaurant?", "Where should I eat?", "Food suggestions", "Best places to eat"],
+      "responses": ["Sure! What type of cuisine are you interested in?", "I can help with that! Do you have any preferences?"]
+    },
+    {
+      "tag": "movie_recommendation",
+      "patterns": ["Can you suggest a movie?", "What should I watch?", "Movie recommendations", "Best films to see"],
+      "responses": ["Absolutely! What genre do you like?", "I can recommend some great movies! Any preferences?"]
     }
+
+
   ]
 }
